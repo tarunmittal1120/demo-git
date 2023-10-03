@@ -1,2 +1,2 @@
 #demo
-mydemo.
+mydemo!
